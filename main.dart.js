@@ -53769,7 +53769,7 @@ f.toString
 f=J.AY(f,new A.ajs(a))
 n=A.ag(f,!0,f.$ti.i("o.E"))
 m=n.length!==0?B.c.gO(n):new A.c0(a,0,0,0)
-l=m.b+m.c+m.d
+l=m.b+m.c
 if(l<3)k=B.cS
 else k=l<8?B.v5:B.a3
 f=p.e
@@ -53783,7 +53783,7 @@ return A.I(f.t7(o.gd9(o).a.c.h(0,"uid")),$async$t6)
 case 3:o=e.AY(c,new A.ajt(a))
 j=A.ag(o,!0,o.$ti.i("o.E"))
 i=j.length!==0?B.c.gO(j):new A.c0(a,0,0,0)
-h=i.b+i.c+i.d
+h=i.b+i.c
 if(h<3)g=B.cS
 else g=h<8?B.v5:B.a3
 q=A.aj(["me",k,"partner",g],t.N,t.n8)
